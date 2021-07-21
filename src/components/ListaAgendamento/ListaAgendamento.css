@@ -1,0 +1,11 @@
+.caixa{
+    display:inline-table;
+    width: 100%;
+    padding: 10px;   
+    justify-items: left;
+    background-color: rgb(114, 160, 212);
+    }
+
+h2{
+    color: white;
+}

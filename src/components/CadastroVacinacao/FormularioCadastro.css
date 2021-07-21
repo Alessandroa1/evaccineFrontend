@@ -1,0 +1,21 @@
+.box{
+    display:inline-table;
+    width: 100%;
+    padding: 10px;   
+    justify-items: left;
+    background-color:#72A0D4;
+    }
+
+h2{
+    color: rgb(114, 160, 212);;
+}
+.botao{
+    padding-top: 15px;
+    
+}
+
+#formulario{
+    padding-left: 20%;
+
+
+}
